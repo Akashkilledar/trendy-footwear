@@ -63,13 +63,13 @@ To set up the project locally, follow these steps:
 
 ### 1. Clone the repository
 
-- git clone https://github.com/RutvikKumbhar90/CoolFootwear-Project.git
+- git clone https://github.com/Akashkilledar/trendy-footwear.git
 
 ### 2. Install Dependencies
 
 Navigate to the project directory and install the required dependencies:
 
-- cd CoolFootwear-Project
+- cd trendy-footwear
 - npm install
 
 
