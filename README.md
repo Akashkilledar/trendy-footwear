@@ -103,7 +103,6 @@ Feel free to contribute by submitting issues or creating pull requests. Here are
 
 Here’s a quick overview of the project structure:
 
-!(https://github.com/user-attachments/assets/44204b65-6eb7-4e25-b515-294a221b2450)
 
 ---
 
