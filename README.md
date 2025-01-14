@@ -106,7 +106,7 @@ Here’s a quick overview of the project structure:
 
 ---
 
-Enjoy using CoolFootwear! If you have any questions or feedback, feel free to reach out. Happy shopping! 👟
+Enjoy using Trendy Footwear! If you have any questions or feedback, feel free to reach out. Happy shopping! 👟
 
 ***Just copy everything inside the code block, and you're good to go!***
 
