@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/cHSVgfM3/images-removebg-preview-modified.png" alt="website logo" height="80px" width="80px"/>
+  <img src=https://trendy-footwear.netlify.app/assets/images-removebg-preview-C1DSUdEK.png alt="website logo" height="80px" width="80px"/>
   <br />
   <a href="https://trendy-footwear.netlify.app/" target="_blank"><strong>Live Preview</strong></a>
 </p>
