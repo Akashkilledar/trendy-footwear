@@ -17,15 +17,15 @@ Welcome to **Trendy Footwear**, a modern e-commerce platform built with React th
  
 - **Payment Integration (Test Mode)**: Integration with a payment system for checkout (currently in test mode).
  
-- **State Management**: Redux is used for state management to handle the shopping cart and user sessions.
+- **State Management**: Redux is used for state management to handle the shopping cart.
  
 - **Responsive Design**: The application is fully responsive and works across multiple devices.
  
 - **Skeleton Loader**: Skeleton screens for loading product data for a smoother user experience.
  
-- **Admin Panel**: Admins can add new products, update existing ones, and view user orders.
+- **Admin Panel**: Admins can add new products, update existing ones.
   
-- **Mock API**: Data is stored temporarily using **MockAPI** for users, products, and orders. No backend required.
+- **Mock API**: Data is stored temporarily using **MockAPI** for products. No backend required.
  
 - **Local Storage**: Cart data and other temporary information are stored locally on the user's browser.
  
@@ -37,11 +37,11 @@ Welcome to **Trendy Footwear**, a modern e-commerce platform built with React th
 
 - **React** - Frontend framework for building the user interface.
  
-- **Redux** - For managing the application state (e.g., cart data, user authentication).
+- **Redux** - For managing the application state (e.g., cart data).
  
-- **MockAPI** - For storing and retrieving user, product, and order data.
+- **MockAPI** - For storing and retrieving user, product.
  
-- **Yup** - For validating form data (e.g., user registration, login).
+- **Yup** - For validating form data (e.g., login).
  
 - **React Router** - For navigation between pages.
  
